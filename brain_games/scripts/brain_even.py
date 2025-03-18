@@ -1,7 +1,7 @@
 import prompt
 import random
-from brain_games.scripts import cli
-from brain_games.scripts import logik
+from brain_games import cli
+from brain_games import logik
 
 
 def true_or_false():

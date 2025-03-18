@@ -1,9 +1,7 @@
 import random
-from brain_games import scripts
-
-
+from brain_games import logik, cli
 def culc_game():
-	welcome_user()
+	cli.welcome_user()
 	print(f'What is the result of the expression?')
 	i = 0
 	while i < 3:
@@ -20,6 +18,6 @@ def culc_game():
 		else:
 			correct_answer = number_first * number_second
 		prepared_correct_answer = str(correct_answer)
-		logic.logik_in_game(question, prepared_correct_answer)
+		logik.logik_in_game(question, prepared_correct_answer)
 	cli.end()
-culc_game()
+
