@@ -20,6 +20,7 @@ https://github.com/Gfadik/python-project-49#
 2. Click on the green "<> Code" button
 
 ![img.png](img.png)
+
 3. In the window that opens, go to the "HTTPS" tab and copy the link.
 
 ![img_1.png](img_1.png)
