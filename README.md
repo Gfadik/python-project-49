@@ -18,9 +18,13 @@ This is Hexlet's first python project. It includes several math games.:
 1. Follow the link on GitHub
 https://github.com/Gfadik/python-project-49#
 2. Click on the green "<> Code" button
+
 ![img.png](img.png)
 3. In the window that opens, go to the "HTTPS" tab and copy the link.
+
 ![img_1.png](img_1.png)
+
+
 4. Open a terminal, navigate to a directory that is convenient for you, and write the command
 -git clone <copied link>
 5. The project is installed.cTo start the game, enter one of the following commands:
