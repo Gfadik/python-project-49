@@ -2,7 +2,7 @@ import prompt
 
 
 def engine_in_games(games):
-    name = prompt.string('What is your name? ')
+    name = prompt.string('May I have your name?')
     print(f'Hello, {name}')
     print(f'{games.rule}')
     i = 1
