@@ -17,5 +17,5 @@ def engine_in_games(games):
                   f"Correct answer was {correct_answer}")
             print(f"Let's try again, {name}!")
             exit()
-        print(f'Congratulations, {name}!')
+    print(f'Congratulations, {name}!')
 
