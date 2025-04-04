@@ -13,5 +13,5 @@ def processing_game():
         first_number += the_number_for_progression
     correct_answer = progression[random_index_progression]
     progression[random_index_progression] = '..'
-    question = ', '.join(map(str,progression))
+    question = ' '.join(map(str,progression))
     return question, str(correct_answer)
